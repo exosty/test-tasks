@@ -3,4 +3,3 @@ def solution(s)
 end
 #any part of string containing only A and B symbols transforms into A
 #any part of string containing only C and B symbols transforms into C
-puts solution('ACBABACBACBACBACBCBACACBACBAABBAAAABABACC')
