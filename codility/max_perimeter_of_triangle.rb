@@ -12,4 +12,5 @@ def solution array
   return 0
 end
 
+# n(logn)+(n-2) => complexity n(logn)
 puts solution([8,5,10,19,30])
