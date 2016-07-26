@@ -12,7 +12,7 @@ class Automator
     standard_placement_name="standard placement", fullscreen_placement_name="fullscreen placement")
 
     Capybara.default_driver = :poltergeist
-    Capybara.default_max_wait_time = 60
+    Capybara.default_max_wait_time = 120
 
     @login = login
     @password = password
